@@ -1,2 +1,2 @@
-# kayong-bible
+# Kayong-bible
 Ƀầu Pyăk Sìp
